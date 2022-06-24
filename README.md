@@ -10,5 +10,5 @@ Install ImageMagick with official binary.
 # Usage
 
 ```
-cookbook 'chef-imagemagick', git: 'https://github.com/mataki/chef-imagemagick-binary.git'
+cookbook 'chef-imagemagick-binary', git: 'https://github.com/mataki/chef-imagemagick-binary.git'
 ```
