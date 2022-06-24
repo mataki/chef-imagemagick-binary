@@ -1,8 +1,8 @@
 name 'chef-imagemagick-binary'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'All Rights Reserved'
-description 'Installs/Configures chef-imagemagick-binary'
+maintainer 'Akihiro Matsumura'
+maintainer_email 'mat_aki@sonicgarden.jp'
+license 'Apache 2.0'
+description 'Installs/Configures chef-imagemagick with binary'
 version '0.1.0'
 chef_version '>= 16.0'
 
