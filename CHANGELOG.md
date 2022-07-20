@@ -1,10 +1,10 @@
 # chef-imagemagick-binary CHANGELOG
 
-This file is used to list changes made in each version of the chef-imagemagick-binary cookbook.
+## 0.1.1
+
+* Change policy to add NULL:
+* Change support chef version
 
 ## 0.1.0
 
 Initial release.
-
-- change 0
-- change 1
